@@ -31,38 +31,35 @@ The POS app offers a sleek and user-friendly interface designed to streamline po
 
 ## Screenshots
 
-### Splash Screen
-![Splash Screen](https://github.com/user-attachments/assets/12ce1b1e-4e03-4506-ae2a-9343b196c3fc)
+### Splash Screen, Getting Started Screen, and Login Screen
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://github.com/user-attachments/assets/59374485-8816-4f45-b046-435069be5b1c" alt="Splash Screen" height="200" style="flex: 1; margin: 5px;">
+    <img src="https://github.com/user-attachments/assets/f7bc5ba1-0728-4c5d-88a8-e545f438c770" alt="Getting Started Screen" height="200" style="flex: 1; margin: 5px;">
+    <img src="https://github.com/user-attachments/assets/a04a3074-9e17-4c73-b54b-fa79f7b1338a" alt="Login Screen" height="200" style="flex: 1; margin: 5px;">
+</div>
 
-### Getting Started Screen
-![Getting Started Screen](https://github.com/user-attachments/assets/2e4830bf-51f6-421f-ab43-c0b9be065dae)
+### Home Screen, Categories Screen, and Product Details
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://github.com/user-attachments/assets/bc7784c3-a71f-4d1f-a173-4161858f76be" alt="Home Screen" height="200" style="flex: 1; margin: 5px;">
+    <img src="https://github.com/user-attachments/assets/21b5a1ce-bdb3-4e71-ae4d-485904ee844e" alt="Categories Screen" height="200" style="flex: 1; margin: 5px;">
+    <img src="https://github.com/user-attachments/assets/8b7fdb92-e0e3-41c3-88cb-d910e20db69a" alt="Product Details" height="200" style="flex: 1; margin: 5px;">
+</div>
 
-### Login Screen
-![Login Screen](https://github.com/user-attachments/assets/509cfc2e-4856-464b-b287-7184225cceec)
+### Categories Page, Cart Page, and Place Order Page
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://github.com/user-attachments/assets/8e6c0aec-9d83-442e-af54-8b3cbd40a7fa" alt="Categories Page" height="200" style="flex: 1; margin: 5px;">
+    <img src="https://github.com/user-attachments/assets/32097ede-2f86-49dc-a8db-60e514988d45" alt="Cart Page" height="200" style="flex: 1; margin: 5px;">
+    <img src="https://github.com/user-attachments/assets/d3392d4c-b103-471d-9ad5-71900b17cafe" alt="Place Order Page" height="200" style="flex: 1; margin: 5px;">
+</div>
 
-### Home Screen
-![Home Screen](https://github.com/user-attachments/assets/32011063-4962-40ef-b42c-a686bb693210)
+### Favorites Page and Settings Screen
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://github.com/user-attachments/assets/1b1e723d-7379-4eb8-973b-8016cef5c072" alt="Favorites Page" height="200" style="flex: 1; margin: 5px;">
+    <img src="https://github.com/user-attachments/assets/863c20fe-0caf-4ffe-8303-e726da608913" alt="Settings Screen" height="200" style="flex: 1; margin: 5px;">
+</div>
 
-### Categories Screen
-![Categories Screen](https://github.com/user-attachments/assets/062ce932-e852-456e-b3e4-f545577e9d62)
 
-### Product Details
-![Product Details](https://github.com/user-attachments/assets/9ff676c2-c3f1-4a5e-aa0a-801d1ca6761c)
 
-### Categories Page
-![Categories Page](https://github.com/user-attachments/assets/c20ce83a-f818-44a8-8e27-5002ffcb3102)
-
-### Cart Page
-![Cart Page](https://github.com/user-attachments/assets/9ae2c6cb-5f51-46cd-975b-2135b0bf6af0)
-
-### Place Order Page
-![Place Order Page](https://github.com/user-attachments/assets/7a595dfd-cbab-458a-9f8b-d74a26226520)
-
-### Favorites Page
-![Favorites Page](https://github.com/user-attachments/assets/0a50b770-6e83-4d4b-8663-91f51343c9a5)
-
-### Settings Screen
-![Settings Screen](https://github.com/user-attachments/assets/696f0c95-effd-43de-b994-0a7a45708fc3)
 
 ## Installation
 
